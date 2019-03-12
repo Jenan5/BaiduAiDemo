@@ -1,0 +1,11 @@
+
+`squid:S3398"?Move this method into the anonymous class declared at line 117.(ü¹¾ùÿÿÿÿ8àŸàê”-
+Isquid:S1068"-Remove this unused "uiHandler" private field.(Ú¸²í8àŸàê”-
+Nsquid:S1068"2Remove this unused "mPreviewDegree" private field.(¸¾ãÜ8àŸàê”-
+tsquid:S1450"XRemove the "uiHandler" field and declare it as a local variable in the relevant methods.(Ú¸²í8àŸàê”-
+ysquid:S1450"]Remove the "mPreviewDegree" field and declare it as a local variable in the relevant methods.(¸¾ãÜ8àŸàê”-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ë‚Ğ8àŸàê”-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(âö£Ÿıÿÿÿÿ8àŸàê”-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¹¨Èß8àŸàê”-
+psquid:S2445"O"lastFrame" is not "private final", and should not be used for synchronization.(›çÑ„ùÿÿÿÿ8àŸàê”-
+[squid:UselessImportCheck"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8àŸàê”-

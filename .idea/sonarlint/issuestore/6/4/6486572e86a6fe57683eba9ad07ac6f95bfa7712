@@ -1,0 +1,8 @@
+
+@squid:S1148Œ"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+csquid:S1192n"GDefine a constant instead of duplicating this literal "BASE64" 3 times.(ý®Ô½ûÿÿÿÿ
+csquid:S1192v"GDefine a constant instead of duplicating this literal "NORMAL" 4 times.(¨¦Ã€ýÿÿÿÿ
+csquid:CommentedOutCodeLine¡"<This block of commented-out lines of code should be removed.(ŸÂ³Ð
+@squid:S1148¥"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148l"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Esquid:S1068!".Remove this unused "VERIFY_URL" private field.(ãÖŽ™

@@ -1,0 +1,12 @@
+
+Asquid:S1148¨"#Use a logger to log this exception.(ˆñA8“£½†•-
+_squid:UnusedPrivateMethod™"-Remove this unused private "identify" method.(“¶·üÿÿÿÿ8øõ†•-
+nsquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(…Ê¹üÿÿÿÿ8“£½†•-
+Gsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8“£½†•-
+osquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(–¬•õıÿÿÿÿ8åïô†•-
+Xsquid:S1905<"5Remove this unnecessary cast to "TexturePreviewView".(é¯óôøÿÿÿÿ8“£½†•-
+}squid:S1171Å"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8’¸½†•-
+Asquid:S1148½"#Use a logger to log this exception.(ˆñA8Õİ½†•-
+Jsquid:S1172Ì"&Remove these unused method parameters.(Àœóøÿÿÿÿ8’¸½†•-
+`squid:UselessImportCheck"0Remove this unused import 'org.json.JSONObject'.(œÖ´üşÿÿÿÿ8¸åó†•-
+usquid:UselessImportCheck"JRemove this unused import 'com.baidu.aip.face.turnstile.utils.JsonHelper'.(Ùˆ÷–8àéë†•-

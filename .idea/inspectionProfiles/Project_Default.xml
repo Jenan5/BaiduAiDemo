@@ -1,0 +1,11 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="EmptyTryBlock" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="OCUnusedGlobalDeclarationInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="OCUnusedInstanceVariableInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="SizeReplaceableByIsEmpty" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="UnusedEquals" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="UnusedLocalVariable" enabled="true" level="ERROR" enabled_by_default="true" />
+  </profile>
+</component>
